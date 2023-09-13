@@ -58,9 +58,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-If you have any questions or need further assistance, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or need further assistance, feel free to contact me at [vic.shima.vss@gmail.com](vic.shima.vss@gmail.com).
 
 Happy coding! 🚀
 ```
-
-Replace the placeholders like `your-username`, `your-django-project`, and `your-email@example.com` with your actual information. This README provides a basic structure that you can expand upon as needed for your project.
